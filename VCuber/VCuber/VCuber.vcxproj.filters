@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{0e7ddfc4-fa9e-41cb-b62c-e0513106ec77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\DirectX">
+      <UniqueIdentifier>{bbfa4bd9-66ab-4eb6-adbc-8e401fbc506e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene">
+      <UniqueIdentifier>{923af57c-6359-4a99-b947-46d2dd7aa0d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Animator">
+      <UniqueIdentifier>{f3884a32-00a3-4065-b10b-d4ce9b13576d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Time">
+      <UniqueIdentifier>{e8b31cb1-2bdf-45ff-a9a2-0cade1004c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\VR">
+      <UniqueIdentifier>{5be947cb-ac27-422a-ba4f-ae4724f10cfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Debug">
+      <UniqueIdentifier>{1d14e8a9-55ab-4ff0-8838-0786bb6504f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Input">
+      <UniqueIdentifier>{3f2a4991-54f7-47a1-a2fb-bce299a196d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\MeshLoader">
+      <UniqueIdentifier>{bcf1439f-a324-474f-a57a-a7bd9fbeb097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object">
+      <UniqueIdentifier>{b5b2cea0-f333-4ddf-a74a-0370971a15ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object\AI">
+      <UniqueIdentifier>{752ae622-df86-470a-b439-1127adb3b879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object\Animation">
+      <UniqueIdentifier>{0929f662-4817-4937-a9e5-f9c9c6f16439}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object\Mesh">
+      <UniqueIdentifier>{ee4fb4f3-5b4a-4eb1-9c56-a652712bf06d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object\PhysicsObj">
+      <UniqueIdentifier>{a9f75566-86c0-4eef-8afe-bb02788bc1bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Object\Shader">
+      <UniqueIdentifier>{20a36b13-cfbb-4e8b-853c-2ad1bd845d31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\Physics">
+      <UniqueIdentifier>{9d5516ae-c196-4fa2-9fb7-50ef88a24c1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{acf9ae37-7666-4f58-a628-4a6aed80f393}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\DirectX">
+      <UniqueIdentifier>{22cd7cba-82a8-488f-9f29-8ac8cf3e0468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\VR">
+      <UniqueIdentifier>{ec15d2fa-6310-4de0-820b-dd038297521f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Time">
+      <UniqueIdentifier>{9639a398-dc53-48a4-b157-be893ecd9af3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene">
+      <UniqueIdentifier>{97627e95-f3be-44bc-b289-842d971adfdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Animator">
+      <UniqueIdentifier>{c2e35445-7bf3-4bb9-b385-0713895a8737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Debug">
+      <UniqueIdentifier>{bf2549b4-c1ae-4d87-ba7c-c8a21dd106a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Input">
+      <UniqueIdentifier>{5b0fdc18-8756-4d4c-b42c-3ac80e9ebd73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\MeshLoader">
+      <UniqueIdentifier>{e22b6118-822f-47c7-a5ee-a125d0bc6359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object">
+      <UniqueIdentifier>{ed77860b-01e8-4916-a918-1b8760ae8530}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Physics">
+      <UniqueIdentifier>{5e607dcf-43e6-4418-8244-8137d9553559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object\AI">
+      <UniqueIdentifier>{415ba83a-a791-4156-9830-698a0328b558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object\Animation">
+      <UniqueIdentifier>{f617703b-d06d-483e-a5d7-ffedd02199e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object\Mesh">
+      <UniqueIdentifier>{516cfcd1-a698-40c9-8cb1-86180fd905cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object\Shader">
+      <UniqueIdentifier>{f77b9658-3b8a-40ae-88c4-48d83b30f99a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\Object\PhysicsObj">
+      <UniqueIdentifier>{456da341-5b99-4a35-9780-278658319876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{cc3766d2-00f3-4a7f-abcf-24c512e5fdf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Materials">
+      <UniqueIdentifier>{56be39e4-f049-4de9-b770-fcb8c79e7055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\csh">
+      <UniqueIdentifier>{19e2126e-9b4a-4e17-8db6-8e974f846c1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Scene\ShaderLoader">
+      <UniqueIdentifier>{06781363-301d-4dcc-9ec1-34c71d156fdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Scene\ShaderLoader">
+      <UniqueIdentifier>{e08c189b-d224-4f23-8a32-64670b5ed255}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VCuber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX.h">
+      <Filter>Header Files\Engine\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="VR.h">
+      <Filter>Header Files\Engine\VR</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files\Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Header Files\Engine\Scene\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>Header Files\Engine\Scene\Object\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="InputTranslator.h">
+      <Filter>Header Files\Engine\Scene\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshLoader.h">
+      <Filter>Header Files\Engine\Scene\MeshLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files\Engine\Scene\Object\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files\Engine\Scene\Object\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files\Engine\Scene\Object\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsObj.h">
+      <Filter>Header Files\Engine\Scene\Object\PhysicsObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header Files\Engine\Scene\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderLoader.h">
+      <Filter>Header Files\Engine\Scene\ShaderLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Header Files\Engine\Scene\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeTranslator.h">
+      <Filter>Header Files\Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Debugger.h">
+      <Filter>Header Files\Engine\Scene\Debug</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VCuber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX.cpp">
+      <Filter>Source Files\Engine\DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Source Files\Engine\Scene\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTranslator.cpp">
+      <Filter>Source Files\Engine\Scene\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshLoader.cpp">
+      <Filter>Source Files\Engine\Scene\MeshLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>Source Files\Engine\Scene\Object\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Engine\Scene\Object\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files\Engine\Scene\Object\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsObj.cpp">
+      <Filter>Source Files\Engine\Scene\Object\PhysicsObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files\Engine\Scene\Object\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="VR.cpp">
+      <Filter>Source Files\Engine\VR</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Engine\Scene\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderLoader.cpp">
+      <Filter>Source Files\Engine\Scene\ShaderLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Source Files\Engine\Scene\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files\Engine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeTranslator.cpp">
+      <Filter>Source Files\Engine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Debugger.cpp">
+      <Filter>Source Files\Engine\Scene\Debug</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VCuber.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="VCuber.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="BasicPixelShader.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="BasicVertexShader.hlsl">
+      <Filter>Resource Files\Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BasicVertexShader.csh">
+      <Filter>Resource Files\Shaders\csh</Filter>
+    </None>
+    <None Include="BasicPixelShader.csh">
+      <Filter>Resource Files\Shaders\csh</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

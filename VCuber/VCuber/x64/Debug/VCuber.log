@@ -1,0 +1,48 @@
+﻿  Scene.cpp
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.h(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(58): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(129): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(167): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(179): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(189): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(199): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(209): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(505): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(518): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(520): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(533): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(535): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(550): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(562): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(564): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(658): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(669): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(681): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(683): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(695): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(697): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(711): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(723): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(725): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(794): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(806): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(814): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(827): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(837): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(860): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(861): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(893): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(901): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(913): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(923): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(946): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(947): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(982): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(999): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0xfbadf00d\documents\github\radarlabs\vcuber\vcuber\scene.cpp(969): warning C4715: 'Scene::VrUpdate': not all control paths return a value
+  VCuber.vcxproj -> C:\Users\0xFBADF00D\Documents\GitHub\RadarLabs\VCuber\x64\Debug\VCuber.exe
